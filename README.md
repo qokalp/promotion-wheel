@@ -2,6 +2,8 @@
 
 A visually striking, single-page "spin-the-wheel" web application for gamified advertising promotions. Users enter their details to spin a physics-animated prize wheel, with results recorded to Google Sheets and admin configuration via a password-protected interface.
 
+![Promotion Wheel Preview](screen.png)
+
 ## ✨ Features
 
 - **Physics-Animated Wheel**: Smooth acceleration and deceleration with realistic spin mechanics
